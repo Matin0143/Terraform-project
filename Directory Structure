@@ -1,0 +1,13 @@
+project/
+├── flask/
+│   ├── app.py
+│   └── requirements.txt
+├── express/
+│   ├── src/index.js
+│   └── package.json
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   ├── terraform.tfvars
+│   └── user_data.sh
